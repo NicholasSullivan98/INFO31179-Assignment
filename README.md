@@ -1,5 +1,5 @@
-# INFO31179-Assignment2
-Assignment 2 Repository for INFO31179 Figma Assignment
+# INFO31179-Assignment
+Assignment Repository for INFO31179 Figma Assignment
 
 Figma URL: https://www.figma.com/design/099UDtYnkEFJBvzS4LZOjw/INFO31179---Assignment-2?m=auto&t=occvK1fmDRKZ3x4a-6
 
